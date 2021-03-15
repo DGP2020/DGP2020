@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DGP2020
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning Python and then Kotlin
+- 🌱 I’m currently learning Python and afterwards Kotlin
 
 <!---
 DGP2020/DGP2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
