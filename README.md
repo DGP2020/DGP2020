@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DGP2020
-- 👀 I’m interested in Python 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Python and afterwards Kotlin
 
 <!---
