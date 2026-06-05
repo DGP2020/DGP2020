@@ -7,6 +7,7 @@ Skills
 - Linux
 - Wireshark
 - Networking fundamentals
+- Sigma rules
 
 Current Focus
 - Network traffic analysis
