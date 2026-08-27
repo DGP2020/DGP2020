@@ -1,6 +1,6 @@
 Hi, I'm Daniel.
 
-Computer Science student interested in cybersecurity, networking, and systems.
+Computer Science student interested in cybersecurity, AI/ML,networking, and systems.
 
 Skills
 - C, Java
@@ -11,11 +11,11 @@ Skills
 - Sigma rules
 - MITRE ATT&CK and D3FEND frameworks
 - ISO 27001 standards
+- AI Agents
 
 Current Focus
 - Network traffic analysis
 - Intrusion detection
-- System security
 - AI security
 - Security audit and compliance
 
