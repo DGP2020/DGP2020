@@ -1,11 +1,11 @@
 <div align="center">
 
 # ⚡ Daniel (`@DGP2020`)
-### **Computer Science Undergrad | Systems, Defensive Security & Applied AI**
+### **Computer Science Undergrad | Systems, Software Engineering & Applied Security**
 
 <!-- Dynamic Typing SVG Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+%F0%9F%91%8B;Investigating+Network+Traffic+%26+Protocols;Engineering+Detections+%26+Sigma+Rules;Exploring+AI+Security+%26+Autonomous+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+%F0%9F%91%8B;Building+Secure+Systems+%26+Microservices;Developing+in+Rust%2C+Python+%26+C;Exploring+Applied+AI+%26+Data+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,47 +21,51 @@
 
 ## 📌 Executive Summary
 
-* **Background:** Undergraduate **Computer Science student** (*Class of '28*) passionate about understanding how complex systems behave under the hood.
-* **Core Philosophy:** Security is not an afterthought; it is built through **deep packet inspection**, **rigorous exposure validation**, and **standards-based defenses**.
-* **Current Hobby & Drive:** Actively dissecting **raw network packets**, evaluating **detection engineering pipelines**, and experimenting with **autonomous AI agents**.
+- **Background:** Undergraduate **Computer Science student** (*Class of '27*) building robust, secure, and scalable applications from the systems level up to the cloud.
+
+- **Core Philosophy:** Good software requires rigorous testing, solid architecture, and security built-in by design—whether it’s low-level systems logic or full-stack microservices.
+
+- **Current Drive:** Bridging systems programming, containerized backend architectures, and applied machine learning to solve real-world problems.
 
 ---
 
-## 🎯 Current Engineering Focus
+## 🎯 Engineering Focus
 
-* **Traffic Forensics & IDS:** Dissecting anomalies, identifying protocol abuse, and tuning **network intrusion detection systems (NIDS)**.
-* **Detection Engineering:** Translating attacker behaviors into high-fidelity **Sigma rules** mapped to adversary playbooks.
-* **Security & Compliance:** Operationalizing defensive postures via the **MITRE ATT&CK** and **D3FEND** matrix alongside **ISO/IEC 27001** information security controls.
-* **AI Security:** Auditing **AI agents**, mitigations against adversarial prompt injection, and securing LLM operational pipelines.
+- **Systems & Low-Level Programming:** Developing performant CLI tools, file integrity monitors, and language translation utilities with a focus on memory safety and formal testing.
+
+- **Backend & Cloud Architecture:** Designing modular REST APIs and microservices using modern web frameworks, integrating databases, and containerizing deployments for cloud environments.
+
+- **Applied Security:** Implementing cryptographic standards (AES, hashing), secure authentication (JWT), and exploring detection engineering frameworks.
+
+- **Applied AI & Data Pipelines:** Building models for entity resolution, anomaly detection, and algorithmic bias mitigation.
 
 ---
 
 ## 🛠️ The Tech Arsenal
 
-### **Languages & Core Platforms**
+### **Languages**
 <p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### **Cybersecurity, Telemetry & Frameworks**
+### **Backend, Data & Cloud infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Sigma_Rules-0052CC?style=for-the-badge&logo=blueprint&logoColor=white" alt="Sigma" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge&logo=target&logoColor=white" alt="MITRE ATT&CK" />
-  <img src="https://img.shields.io/badge/MITRE_D3FEND-34A853?style=for-the-badge&logo=shield&logoColor=white" alt="MITRE D3FEND" />
-  <img src="https://img.shields.io/badge/ISO_27001-4B0082?style=for-the-badge&logo=security&logoColor=white" alt="ISO 27001" />
-</p>
-
-### **AI, Data & Network Architecture**
-<p align="left">
-  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Networking-TCP%2FIP-008080?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### **Security & Systems Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=security&logoColor=white" alt="Cryptography" />
 </p>
 
 ---
@@ -83,7 +87,6 @@
 
 ## 🤝 Connect & Collaborate
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/daniel-philip-518375328)
-* **Email:** [daniel@example.com](mailto:daaiclaws@gmail.com)
-* **GitHub Discussions / PRs:** Feel free to open an issue or collaborate on systems & detection engineering tools!
-
+- **LinkedIn:** [linkedin.com/in/danielphilip-518375328](https://linkedin.com/in/danielphilip-518375328)
+- **Email:** [danielgeorgephilip@gmail.com](mailto:danielgeorgephilip@gmail.com)
+- **Collaboration:** Always open to discussing software architecture, systems programming, and security tooling!
